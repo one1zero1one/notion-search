@@ -1,6 +1,6 @@
-# Notion cli search
+# Notion Dot So Cli Search
 
-Using a token and workspace name, indexes all the titles 
+Using a token and workspace name, indexes all the titles to allow easy fuzzy search and quick url open.
 
 ## Install
 
